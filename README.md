@@ -14,7 +14,7 @@
 
 ### 🌱 About me
 
-* :moyai: Cyber Security Technician
+* :moyai: Cybersecurity Technician
 * :desktop_computer: 42 Barcelona Student
 * :artificial_satellite: I love Pentesting
 
